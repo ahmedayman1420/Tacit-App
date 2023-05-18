@@ -1,13 +1,4 @@
-# DataScience
+# Problem and Dataset Description
+Our project covers the problem of Medical Representatives visits to Doctors. We will try to analyse their performance and answer the question of how to increase their productivity. The dataset is retrieved from a real database of an application called Tacitapp that multiple Pharmaceutical Companies use in The Middle East and North Africa region. The dataset contains data about multiple companies each company has dozens of medical reps that made thousands of visits in the last 5 years, and contains data about more than 60000 doctors. Each visit contains data about the rep, the doctor, the product presented, the exact location where the visit was made, the total duration, the time of the visit, the duration of each slide in the presentation and any objections or remarks by the doctor.
 
-In order to replicate the results.
-
-1. create .env file in the root directory
-
-2. add the following variables to the .env file
-
-```bash
-CONNECTION_STRING=<your-connection-string>
-```
-
-3. replace the <your-connection-string> with your connection string
+# For more details, open DS Report.pdf
